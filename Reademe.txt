@@ -1,0 +1,24 @@
+Lavavel 8.x Project
+---------------------------
+
+1. Super admin Login Details
+-----------------------------
+name - super admin
+email - superadmin@admin.com
+pass - 12345678
+full accessed
+
+
+2. Editor Login Details
+-------------------------------
+name - editor
+email - editor@editor.com
+password - 12345678
+Partial accessed (Only Edit)
+
+3. Reader Login Details
+----------------------------------
+name - reader 
+email - reader@reader.com
+password - 12345678
+Only Read Mode
